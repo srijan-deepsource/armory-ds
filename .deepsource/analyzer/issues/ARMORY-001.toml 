@@ -1,0 +1,7 @@
+title = "Bad issue title"
+category = "antipattern"
+severity = "critical"
+description = """
+The issue title is not valid. DeepSource expects a string as title, without any period at the end.
+"""
+recommended = true

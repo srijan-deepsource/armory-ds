@@ -1,0 +1,14 @@
+title = "Bad issue category"
+category = "bug-risk"
+severity = "critical"
+description = """
+The issue category is not valid.
+Allowed values are:
+  - `antipattern`
+  - `bug-risk`
+  - `security`
+  - `typecheck`
+  - `doc`
+  - `style`
+"""
+recommended = true

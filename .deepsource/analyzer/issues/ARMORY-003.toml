@@ -1,0 +1,7 @@
+title = "Error decoding toml"
+category = "bug-risk"
+severity = "critical"
+description = """
+Issue toml file is not a valid toml file.
+"""
+recommended = true
